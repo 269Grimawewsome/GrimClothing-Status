@@ -6,7 +6,7 @@ title = "GrimClothing Status"
   incidents = "/incidents/:year/:month/:day/:slug/"
 
 [params]
-  defaultLogo = "https://www.netlify.com/img/press/logos/logomark.svg"
+  defaultLogo = ""
   faviconsPath = "/images/favicon/"
 
 # List of systems monitored in this status page.
